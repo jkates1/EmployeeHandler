@@ -57,7 +57,7 @@ namespace Records {
         return mFirstName;
     }
 
-    void Employee::setLastName(const std::string &lastName)
+    void Employee::setLastName(const std::string& lastName)
     {
         mLastName = lastName;
     }
